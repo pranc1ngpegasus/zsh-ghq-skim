@@ -6,7 +6,7 @@ Jump into ghq local repository with skim fuzzy finding.
 
 Key binding | Behavior
 --- | ---
-Ctrl-g | Search local repository with sk-tmux
+Ctrl-g | Search local repository with `sk --tmux` (falls back to `sk-tmux`)
 
 ## Installation
 ### Nix flakes
