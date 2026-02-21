@@ -6,7 +6,7 @@ Jump into ghq local repository with skim fuzzy finding.
 
 Key binding | Behavior
 --- | ---
-Ctrl-g | Search local repository with `sk --tmux=${SKIM_TMUX_OPTS:-center,40%}` (falls back to `sk-tmux`)
+Ctrl-g | Search local repository with `sk --tmux=${SKIM_TMUX_OPTS:-bottom,40%}` (falls back to `sk-tmux`)
 
 ## Customization
 
